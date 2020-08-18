@@ -1,6 +1,7 @@
 ## True Leather Saddles
 
 ```markdown
+There are 28 Saddles on this page
 If interested in a saddle or would like more pictures: 
   1.Mark down the code number (example: Saddle 1)
   2.Contact micpim@stanford.edu
