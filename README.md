@@ -52,10 +52,10 @@ If interested in a saddle or would like more pictures:
 ![Image of 15.a](15.a.jpeg)
 
 ### Saddle 16
-![Image of 16.a](16.a.jpeg)
+![Image of 16.a](16.b.jpeg)
 
 ### Saddle 17
-![Image of 17.a](17.a.jpeg)
+![Image of 17.a](17.b.jpeg)
 
 ### Saddle 18
 ![Image of 18.a](18.a.jpeg)
@@ -64,16 +64,16 @@ If interested in a saddle or would like more pictures:
 ![Image of 19.a](19.a.jpeg)
 
 ### Saddle 20
-![Image of 20.a](20.a.jpeg)
+![Image of 20.a](20.b.jpeg)
 
 ### Saddle 21
-![Image of 21.a](21.a.jpeg)
+![Image of 21.a](21.b.jpeg)
 
 ### Saddle 22
-![Image of 22.a](22.a.jpeg)
+![Image of 22.a](22.b.jpeg)
 
 ### Saddle 23
-![Image of 23.a](23.a.jpeg)
+![Image of 23.a](23.b.jpeg)
 
 ### Saddle 24
 ![Image of 24.a](24.a.jpeg)
