@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image of Yaktocat](Stock.jpg)
+![Image of stock](Stock.jpg)
 
 
 
