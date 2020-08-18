@@ -34,16 +34,16 @@ If interested in a saddle or would like more pictures:
 ![Image of 9.a](9.a.jpeg)
 
 ### Saddle 10
-![Image of 10.a](10.a.jpeg)
+![Image of 10.a](10.b.jpeg)
 
 ### Saddle 11
 ![Image of 11.a](11.a.jpeg)
 
 ### Saddle 12
-![Image of 12.a](12.a.jpeg)
+![Image of 12.a](12.b.jpeg)
 
 ### Saddle 13
-![Image of 13.a](13.a.jpeg)
+![Image of 13.a](13.b.jpeg)
 
 ### Saddle 14
 ![Image of 14.a](14.a.jpeg)
