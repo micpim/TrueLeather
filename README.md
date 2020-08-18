@@ -1,9 +1,9 @@
 ## True Leather Saddles
 
 ```markdown
-If interested in a saddle: 
+If interested in a saddle or would like more pictures: 
   1.Mark down the code number (example: Saddle 1)
-  2.contact micpim@stanford.edu
+  2.Contact micpim@stanford.edu
 ```
 
 ### Saddle 1
