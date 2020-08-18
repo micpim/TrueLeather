@@ -22,10 +22,10 @@ If interested in a saddle or would like more pictures:
 ![Image of 5.a](5.a.jpeg)
 
 ### Saddle 6
-![Image of 6.a](6.a.jpeg)
+![Image of 6.a](6.b.jpeg)
 
 ### Saddle 7
-![Image of 7.a](7.a.jpeg)
+![Image of 7.a](7.b.jpeg)
 
 ### Saddle 8
 ![Image of 8.a](8.a.jpeg)
