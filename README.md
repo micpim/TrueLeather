@@ -22,7 +22,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image of Yaktocat](https://github.com/micpim/TrueLeather/blob/master/stock-vector-brown-saddle-with-ornaments-and-embroidery-for-equestrian-sport-and-entertainment-isolated-on-a-295356488.jpg)
+![Image of Yaktocat](Stock.jpg)
+
 
 
 
