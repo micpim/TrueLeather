@@ -22,8 +22,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 
