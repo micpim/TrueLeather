@@ -24,6 +24,7 @@ Syntax highlighted code block
 ```
 ![Image of stock](Stock.jpg)
 
+![Image of 1.a](1.a.jpeg)
 
 
 
