@@ -91,7 +91,7 @@ Prices range from 500 - 800
 ![Image of 26.a](26.a.jpeg)
 
 ### Saddle 28
-![Image of 28.a](24.8.jpeg)
+![Image of 28.a](28.a.jpeg)
 
 
 
