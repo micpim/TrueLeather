@@ -7,6 +7,9 @@ If interested in a saddle or would like more pictures:
   2.Contact micpim@stanford.edu
   
 Customization available!
+
+Prices range from 500 - 800
+  depending on custumization, and size
 ```
 
 ### Saddle 1
