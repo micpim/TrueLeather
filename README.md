@@ -81,5 +81,15 @@ Customization available!
 ### Saddle 24
 ![Image of 24.a](24.a.jpeg)
 
+### Saddle 25
+![Image of 25.a](25.a.jpeg)
+
+### Saddle 26
+![Image of 26.a](26.a.jpeg)
+
+### Saddle 28
+![Image of 28.a](24.8.jpeg)
+
+
 
 
